@@ -1,6 +1,6 @@
 [submodule "first-learn"]
 	path = first-learn
-	url = ./first-learn
+	url = git@github.com:fenghuijiuzhuan/first-learn-backend.git
 [submodule "first-learn-web"]
 	path = first-learn-web
-	url = ./first-learn-web
+	url = git@github.com:fenghuijiuzhuan/first-learn-backend.git
