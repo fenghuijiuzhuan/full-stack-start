@@ -3,4 +3,4 @@
 	url = git@github.com:fenghuijiuzhuan/first-learn-backend.git
 [submodule "first-learn-web"]
 	path = first-learn-web
-	url = git@github.com:fenghuijiuzhuan/first-learn-backend.git
+	url = git@github.com:fenghuijiuzhuan/first-learn-web.git
